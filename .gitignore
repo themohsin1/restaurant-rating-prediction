@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and models (too large)
+data/*.csv
+models/*.pkl
+
+# Virtual environments
+venv/
+env/
